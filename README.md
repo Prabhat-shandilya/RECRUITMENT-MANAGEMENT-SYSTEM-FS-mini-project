@@ -1,6 +1,6 @@
 # RECRUITMENT-MANAGEMENT-SYSTEM-FS-mini-project
 
-File Structure Mini-project: Recruitment Management System.💫✨
+File Structure Mini-project: Recruitment Management System.
 
 ## Features:
 
