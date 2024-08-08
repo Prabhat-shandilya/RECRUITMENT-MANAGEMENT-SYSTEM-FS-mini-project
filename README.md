@@ -4,7 +4,7 @@ File Structure Mini-project: Recruitment Management System.
 
 ## Features:
 
- * Python + MYSQL using tKinter library
+ * Python + File System using tKinter library
  * Recruiter and Client Panel
 
  
